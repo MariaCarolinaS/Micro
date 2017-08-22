@@ -1,7 +1,7 @@
 AULA 1:
 O que são sistemas embarcados?
-São sistemas completos e independentes construídos para um único propósito de aplicação que realizam um conjunto de tarefas pré definidas
-com requisitos específicos.
+São sistemas completos e independentes construídos para um único propósito de aplicação que realizam um conjunto de tarefas 
+pré definidas com requisitos específicos.
 
 O que são sistemas microprocesssados?
 São sistemas que são realizados por circuitos integrados, geralmente constituídos por uma ULA, uma unidade de controle e registradores.
@@ -18,15 +18,18 @@ Harvard: há um maior paralelismo e seus barramentos para instruções e dados s
 
 Por que usamos o MSP430 na disciplina, ao invés de outro microcontrolador?
 O MSP430 possui processador de 16bits, multiplicação por hardware, aplicações de baixo consumo de energia, registradores de 16 bits,
-grande número de periféricos analógicos, é rápido, sua IDE é mais completa. Fatores que o fazem ser melhor que os demais microcontroladores.
+grande número de periféricos analógicos, é rápido, sua IDE é mais completa. Fatores que o fazem ser melhor que os demais
+microcontroladores.
 
 
 AULA 2:
 Quais as diferenças entre os barramentos de dados e de endereços?
-O barramento de dados transmite dados entre as unidades e o barramento de endereços é usado para selecionar a origem ou destino de sinais transmitidos.
+O barramento de dados transmite dados entre as unidades e o barramento de endereços é usado para selecionar a origem ou destino de
+sinais transmitidos.
 
 Quais são as diferenças entre as memórias RAM e ROM?
-RAM é uma memória volátil, que pode ser lida e escrita enquanto a ROM é uma memória não volátil, sua escrita é mais lenta e é somente uma memória para ser lida, o seu conteúdo é escrito durante sua fabricação.
+RAM é uma memória volátil, que pode ser lida e escrita enquanto a ROM é uma memória não volátil, sua escrita é mais lenta e é somente 
+uma memória para ser lida, o seu conteúdo é escrito durante sua fabricação.
 
 Considere o código abaixo:
 
