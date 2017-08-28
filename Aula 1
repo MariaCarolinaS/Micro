@@ -1,0 +1,22 @@
+AULA 1:
+O que são sistemas embarcados?
+São sistemas completos e independentes construídos para um único propósito de aplicação que realizam um conjunto de tarefas 
+pré definidas com requisitos específicos.
+
+O que são sistemas microprocesssados?
+São sistemas que são realizados por circuitos integrados, geralmente constituídos por uma ULA, uma unidade de controle e registradores.
+Sistema capaz de realizar um conjunto de instruções pré determinadas e geralmente e utiilizado com CPU de computadores.
+
+Apresente aplicações de sistemas embarcados: (a) para a indústria automotiva; (b) para eletrodomésticos; (c) para automação industrial.
+(A) Airbags, sistemas de segurança.
+(B) Máquinas de lavar, termostatos.
+(C) Analisadores Industriais, robótica Industrial, controlador single loop/mult loop.
+
+Cite arquiteturas possíveis e as diferenças entre elas.
+Von Neumann: sua execução de instruções é sequencial e seu barramento de instruções e dados é único.
+Harvard: há um maior paralelismo e seus barramentos para instruções e dados são separados.
+
+Por que usamos o MSP430 na disciplina, ao invés de outro microcontrolador?
+O MSP430 possui processador de 16bits, multiplicação por hardware, aplicações de baixo consumo de energia, registradores de 16 bits,
+grande número de periféricos analógicos, é rápido, sua IDE é mais completa. Fatores que o fazem ser melhor que os demais
+microcontroladores.
